@@ -20,7 +20,7 @@ $ docker images
 ```
 5. コンテナの起動
 ```
-dokcer-compose up -d
+$ dokcer-compose up -d
 ```
 
 ## CRASの動作確認
@@ -47,6 +47,8 @@ mysql> select version();
 ウェブ表示：　ディレクトリ「 ./CRAS/htdocs 」
 
 データベース：http://localhost:8080
+
+    user:root   password:password
 
 
 # 参考サイト
