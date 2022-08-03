@@ -22,6 +22,10 @@ $ docker images
 ```
 $ docker-compose up -d
 ```
+6. Mac M1の場合
+```
+docker run -d --platform linux/x86_64 -e
+```
 
 ## CRASの動作確認
 Apache:
