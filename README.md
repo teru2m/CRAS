@@ -20,7 +20,7 @@ $ docker images
 ```
 5. コンテナの起動
 ```
-$ dokcer-compose up -d
+$ docker-compose up -d
 ```
 
 ## CRASの動作確認
