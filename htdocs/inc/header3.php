@@ -14,7 +14,7 @@ include 'head.php';
 <div>
  
 
-    <b2><a href="../index.php"><img src= ../images/CRAS.png width=150　><br><br></a></b2>
+    <d><a href="../src/continue.php"><img src= ../images/CRAS.png width=150　><br><br></a></dCRAS-master>
 
 
        
